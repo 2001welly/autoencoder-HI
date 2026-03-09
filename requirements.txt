@@ -1,0 +1,9 @@
+tensorflow-cpu
+fastapi
+uvicorn[standard]
+joblib
+numpy
+pydantic
+scikit-learn
+python-multipart
+requests

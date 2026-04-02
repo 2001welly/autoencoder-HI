@@ -1,0 +1,22 @@
+{
+  "window_size": 20,
+  "features": [
+    "current",
+    "temperature",
+    "vibration"
+  ],
+  "train_ratio": 0.8,
+  "batch_size": 32,
+  "epochs_requested": 100,
+  "epochs_trained": 16,
+  "threshold_percentile": 99.0,
+  "threshold": 0.0036327780690044165,
+  "train_loss_last": 0.002361430786550045,
+  "val_loss_last": 0.0007962900563143194,
+  "train_error_mean": 0.0023667633067816496,
+  "train_error_std": 0.0029038265347480774,
+  "test_error_mean": 0.000773882435169071,
+  "test_error_std": 0.0007638570968993008,
+  "train_sequences": 2443,
+  "test_sequences": 597
+}

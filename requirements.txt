@@ -1,0 +1,8 @@
+flask
+gunicorn
+tensorflow==2.19.0
+keras==3.13.2
+scikit-learn==1.6.1
+numpy==2.0.2
+joblib==1.5.3
+h5py
